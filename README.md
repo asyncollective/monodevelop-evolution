@@ -1,17 +1,3 @@
-**NOTICE**
--------------
-
-**This project has not been built nor maintained since January 2020 and has been archived**
-
-If you are interested in working on the project, even when archived you can still create a fork of it.
-
-<br/><br/><br/>
-
----
-
-<br/><br/><br/>
-
-
 **MonoDevelop** is a full-featured integrated development environment (IDE) for mono using Gtk#.
 
 The MonoDevelop core is also the foundation for Visual Studio for Mac.
